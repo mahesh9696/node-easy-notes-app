@@ -28,8 +28,9 @@ PORT=3000
 ```
 
 ### Run below commands
-
+```
 npm install
 node server.js
+```
 
 [Download Postman APIs Collection](https://raw.githubusercontent.com/mahesh9696/node-easy-notes-app/master/notes.postman_collection.json)
