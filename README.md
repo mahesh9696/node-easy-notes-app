@@ -8,7 +8,7 @@ I have used below npm packages
   dotenv
   mysql
 ```
-
+Also I have used ES6 features like let, const, arrow functions, promises etc
 
 ## Prerequisites
 What things you need to install the software and how to install them
