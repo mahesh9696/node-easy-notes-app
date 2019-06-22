@@ -32,4 +32,4 @@ PORT=3000
 npm install
 node server.js
 
-[Download Postman APIs Collection](https://raw.githubusercontent.com/mahesh9696/simform/master/saloon.postman_collection.json)
+[Download Postman APIs Collection](https://raw.githubusercontent.com/mahesh9696/node-easy-notes-app/master/notes.postman_collection.json)
